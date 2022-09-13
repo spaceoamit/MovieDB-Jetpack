@@ -1,0 +1,374 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from [com.google.accompanist:accompanist-pager-indicators:0.13.0] /Users/sotsys320/.gradle/caches/transforms-3/e93f554f2d70eb1ed332db114e1cb221/transformed/accompanist-pager-indicators-0.13.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.accompanist:accompanist-pager:0.13.0] /Users/sotsys320/.gradle/caches/transforms-3/72744290bd938d35adff403f7a6d1a05/transformed/accompanist-pager-0.13.0/AndroidManifest.xml:17:1-24:12
+MERGED from [io.coil-kt:coil-compose:2.0.0-rc01] /Users/sotsys320/.gradle/caches/transforms-3/8e78251e2b1f5e6f9123a74ca3c38e3b/transformed/coil-compose-2.0.0-rc01/AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil-compose-base:2.0.0-rc01] /Users/sotsys320/.gradle/caches/transforms-3/90ff5eb2d75a6fcc8a9e361de52ab93b/transformed/coil-compose-base-2.0.0-rc01/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.23.1] /Users/sotsys320/.gradle/caches/transforms-3/cf1ed15a109f677a3291667e1d559d19/transformed/accompanist-drawablepainter-0.23.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.paging:paging-runtime-ktx:3.1.1] /Users/sotsys320/.gradle/caches/transforms-3/2a4a0c61a9400a5c434885f27cd67793/transformed/paging-runtime-ktx-3.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.paging:paging-runtime:3.1.1] /Users/sotsys320/.gradle/caches/transforms-3/779ba777a1ec079bab8f485bcb9a3a8b/transformed/paging-runtime-3.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:hilt-android:2.38.1] /Users/sotsys320/.gradle/caches/transforms-3/3924754fdde44364b8b66f267c706940/transformed/hilt-android-2.38.1/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.navigation:navigation-compose:2.5.2] /Users/sotsys320/.gradle/caches/transforms-3/ca90d07f62492a0df80116bd928e01a5/transformed/navigation-compose-2.5.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.5.1] /Users/sotsys320/.gradle/caches/transforms-3/66ee760c2b3c35f4507311bacdf9c071/transformed/lifecycle-viewmodel-compose-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.13.2] /Users/sotsys320/.gradle/caches/transforms-3/847f08a5fc3ac2cbcde3b894bb57d13a/transformed/glide-4.13.2/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.3.2] /Users/sotsys320/.gradle/caches/transforms-3/5c290e32bd5d62c7b7624d2a4c635629/transformed/fragment-1.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.1.0-beta01] /Users/sotsys320/.gradle/caches/transforms-3/1379672ed7d33b59ebfe3f0285c1894e/transformed/ui-test-manifest-1.1.0-beta01/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.compose.ui:ui-tooling:1.1.0-beta01] /Users/sotsys320/.gradle/caches/transforms-3/bd2a19910e317f7cb2897da68ac2798a/transformed/ui-tooling-1.1.0-beta01/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.activity:activity-compose:1.5.1] /Users/sotsys320/.gradle/caches/transforms-3/9540f03faba22dcaee0e2714ccc7ab2e/transformed/activity-compose-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.2] /Users/sotsys320/.gradle/caches/transforms-3/bc571a8932d87a5236a400b6b776b25a/transformed/navigation-runtime-ktx-2.5.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.2] /Users/sotsys320/.gradle/caches/transforms-3/2c44f72ffe9d7181258f72e504f72562/transformed/navigation-runtime-2.5.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/sotsys320/.gradle/caches/transforms-3/4216b0c4f976c0335e81a5648d3aaa41/transformed/activity-ktx-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] /Users/sotsys320/.gradle/caches/transforms-3/4e84c50205db16489793cd3d6c6c8988/transformed/activity-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.2] /Users/sotsys320/.gradle/caches/transforms-3/83cf9c5c40852eaa13a9f03bc8aac64c/transformed/navigation-common-ktx-2.5.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.2] /Users/sotsys320/.gradle/caches/transforms-3/4ee5a3ae126e3e78c4464db04f90010f/transformed/navigation-common-2.5.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material:1.1.0-beta01] /Users/sotsys320/.gradle/caches/transforms-3/25fe40166ce1c20f46f366e0cf991167/transformed/material-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/sotsys320/.gradle/caches/transforms-3/87a2f4ea161bded2f8827205c295e7ff/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/sotsys320/.gradle/caches/transforms-3/8c6d40a4de3d363e8423548c13a5616a/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.1.0-beta01] /Users/sotsys320/.gradle/caches/transforms-3/bc8c818db698c4ce5886871701afc723/transformed/ui-tooling-data-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-icons-core:1.1.0-beta01] /Users/sotsys320/.gradle/caches/transforms-3/ed4cb6a54528ad45b70c7ff2b24a37f8/transformed/material-icons-core-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.paging:paging-compose:1.0.0-alpha13] /Users/sotsys320/.gradle/caches/transforms-3/1413141c03b5a19605dcde932ecd52c1/transformed/paging-compose-1.0.0-alpha13/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-ripple:1.1.0-beta01] /Users/sotsys320/.gradle/caches/transforms-3/cdd8a6423433fed1154ae43c570564a4/transformed/material-ripple-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/49b7ac985bbcf5a6188401f1939bc56a/transformed/foundation-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/c6f4f11e5618b310ba931b27e4aee58e/transformed/animation-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/ee860dd18eba755afddeafae7c4ae8e0/transformed/foundation-layout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/f77189175a35853df45f927dbf974c19/transformed/animation-core-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/ea79cdcad6383d9f89168264bfff8780/transformed/ui-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/sotsys320/.gradle/caches/transforms-3/f7d6ba3844dcaf32b2b99f7011407078/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/sotsys320/.gradle/caches/transforms-3/02318df07e618b030d678a3a33a1e8bf/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [io.coil-kt:coil:2.0.0-rc01] /Users/sotsys320/.gradle/caches/transforms-3/20fd5c0f4896d17dda07c6976a29c877/transformed/coil-2.0.0-rc01/AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil-base:2.0.0-rc01] /Users/sotsys320/.gradle/caches/transforms-3/ddcf2d024fdec9cbab0683fe9d2a3b07/transformed/coil-base-2.0.0-rc01/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/sotsys320/.gradle/caches/transforms-3/45adea5395f29247179098fc4dac13d5/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.1.0-beta01] /Users/sotsys320/.gradle/caches/transforms-3/91e84e9695b36a79bdb728e5efadacb0/transformed/ui-tooling-preview-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-text:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/948a5087d761946645a326b15d59a13a/transformed/ui-text-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-graphics:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/04fe5ab01dd4440c5fbad3fc0542b01b/transformed/ui-graphics-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-unit:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/8aabe65965c5f7a3f3600b04e3397d25/transformed/ui-unit-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/d68c1a407ef26bde58bedb05d5c6d98f/transformed/runtime-saveable-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-geometry:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/eb6259ae7f9b38321764e6052a892d69/transformed/ui-geometry-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/6f8a4b6e419775e6cc995f58ca1194a0/transformed/runtime-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /Users/sotsys320/.gradle/caches/transforms-3/9d5a9c25bf9bc0cff83b010331b8ff4f/transformed/lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/sotsys320/.gradle/caches/transforms-3/8fa789c8c781ff24ac85f1b0ca114676/transformed/core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [io.github.aakira:napier-android-debug:1.4.1] /Users/sotsys320/.gradle/caches/transforms-3/e959d034b1cc2db890da9336875eab26/transformed/napier-debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/sotsys320/.gradle/caches/transforms-3/056bfff1d31eaaa5312a46778a71b7e5/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/sotsys320/.gradle/caches/transforms-3/ee6480be78697e9b4ba8b8a16eaa6e79/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/sotsys320/.gradle/caches/transforms-3/4e64204bde100f9c1c95bdfa661222ea/transformed/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-util:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/7c8b728359a63c5648df5cd645d56966/transformed/ui-util-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/sotsys320/.gradle/caches/transforms-3/d07965265ab1b2cab75387e118c12095/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/sotsys320/.gradle/caches/transforms-3/c45d061238b91860ec7746eab4eb0b7e/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sotsys320/.gradle/caches/transforms-3/eb6c4362da9fdcfcdcbb1d9472d4a07a/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /Users/sotsys320/.gradle/caches/transforms-3/b0655407146bd1042a5a397351558ad7/transformed/recyclerview-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/sotsys320/.gradle/caches/transforms-3/b51ea0e372d350b05eaf49dc850e5eed/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/sotsys320/.gradle/caches/transforms-3/aec1f1b62b1ad8bae08b3194dcc46800/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/sotsys320/.gradle/caches/transforms-3/bef6e1a3c64756b34d2bfad7ce5333fc/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sotsys320/.gradle/caches/transforms-3/1ca739f49a3aa87969f769e87ce22852/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sotsys320/.gradle/caches/transforms-3/cdb5034c74dd18494b4873b31e706ef8/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] /Users/sotsys320/.gradle/caches/transforms-3/f67e54056b01de037952603e644f6808/transformed/core-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/sotsys320/.gradle/caches/transforms-3/a0b6a970174efa3466d11aacf435cbeb/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] /Users/sotsys320/.gradle/caches/transforms-3/991932d87d2cb70ab3858c2c3603baf8/transformed/gifdecoder-4.13.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/sotsys320/.gradle/caches/transforms-3/6696842d366b3da9875acdec3483665c/transformed/profileinstaller-1.1.0/AndroidManifest.xml:17:1-48:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/sotsys320/.gradle/caches/transforms-3/00f2951cf4f24de2de367aa419cf1946/transformed/startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/sotsys320/.gradle/caches/transforms-3/4fc2c46872a07ffd25153831a0261e35/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sotsys320/.gradle/caches/transforms-3/493109758de0d98189a64f337284b5fe/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/9a63257b9e465d445e073b6bd18c13cd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/sotsys320/.gradle/caches/transforms-3/68a960c12cc35131a3d07bb40abd30c6/transformed/exifinterface-1.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sotsys320/.gradle/caches/transforms-3/173994a8cd365a3aa9901451ec11d37c/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.38.1] /Users/sotsys320/.gradle/caches/transforms-3/675f7633a82db5b2521bba28a99a3639/transformed/dagger-lint-aar-2.38.1/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/sotsys320/.gradle/caches/transforms-3/98ea027750e5624fcde2517b65044706/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:4:5-26
+		INJECTED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:7:22-64
+application
+ADDED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:9:5-31:19
+MERGED from [com.github.bumptech.glide:glide:4.13.2] /Users/sotsys320/.gradle/caches/transforms-3/847f08a5fc3ac2cbcde3b894bb57d13a/transformed/glide-4.13.2/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.13.2] /Users/sotsys320/.gradle/caches/transforms-3/847f08a5fc3ac2cbcde3b894bb57d13a/transformed/glide-4.13.2/AndroidManifest.xml:10:5-20
+MERGED from [androidx.compose.ui:ui-test-manifest:1.1.0-beta01] /Users/sotsys320/.gradle/caches/transforms-3/1379672ed7d33b59ebfe3f0285c1894e/transformed/ui-test-manifest-1.1.0-beta01/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.1.0-beta01] /Users/sotsys320/.gradle/caches/transforms-3/1379672ed7d33b59ebfe3f0285c1894e/transformed/ui-test-manifest-1.1.0-beta01/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.compose.ui:ui-tooling:1.1.0-beta01] /Users/sotsys320/.gradle/caches/transforms-3/bd2a19910e317f7cb2897da68ac2798a/transformed/ui-tooling-1.1.0-beta01/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.compose.ui:ui-tooling:1.1.0-beta01] /Users/sotsys320/.gradle/caches/transforms-3/bd2a19910e317f7cb2897da68ac2798a/transformed/ui-tooling-1.1.0-beta01/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.core:core:1.8.0] /Users/sotsys320/.gradle/caches/transforms-3/f67e54056b01de037952603e644f6808/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] /Users/sotsys320/.gradle/caches/transforms-3/f67e54056b01de037952603e644f6808/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] /Users/sotsys320/.gradle/caches/transforms-3/991932d87d2cb70ab3858c2c3603baf8/transformed/gifdecoder-4.13.2/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] /Users/sotsys320/.gradle/caches/transforms-3/991932d87d2cb70ab3858c2c3603baf8/transformed/gifdecoder-4.13.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/sotsys320/.gradle/caches/transforms-3/6696842d366b3da9875acdec3483665c/transformed/profileinstaller-1.1.0/AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/sotsys320/.gradle/caches/transforms-3/6696842d366b3da9875acdec3483665c/transformed/profileinstaller-1.1.0/AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/sotsys320/.gradle/caches/transforms-3/00f2951cf4f24de2de367aa419cf1946/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/sotsys320/.gradle/caches/transforms-3/00f2951cf4f24de2de367aa419cf1946/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/9a63257b9e465d445e073b6bd18c13cd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/9a63257b9e465d445e073b6bd18c13cd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] /Users/sotsys320/.gradle/caches/transforms-3/f67e54056b01de037952603e644f6808/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:15:9-41
+	android:fullBackupContent
+		ADDED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:13:9-54
+	android:roundIcon
+		ADDED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:16:9-54
+	tools:targetApi
+		ADDED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:19:9-29
+	android:icon
+		ADDED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:18:9-51
+	android:dataExtractionRules
+		ADDED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:12:9-65
+	android:name
+		ADDED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:10:9-35
+activity#com.moviedb.ui.home.MainActivity
+ADDED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:20:9-30:20
+	android:label
+		ADDED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:23:13-45
+	android:exported
+		ADDED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:22:13-36
+	android:theme
+		ADDED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:24:13-55
+	android:name
+		ADDED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:21:13-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml:28:27-74
+uses-sdk
+INJECTED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml
+MERGED from [com.google.accompanist:accompanist-pager-indicators:0.13.0] /Users/sotsys320/.gradle/caches/transforms-3/e93f554f2d70eb1ed332db114e1cb221/transformed/accompanist-pager-indicators-0.13.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-pager-indicators:0.13.0] /Users/sotsys320/.gradle/caches/transforms-3/e93f554f2d70eb1ed332db114e1cb221/transformed/accompanist-pager-indicators-0.13.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-pager:0.13.0] /Users/sotsys320/.gradle/caches/transforms-3/72744290bd938d35adff403f7a6d1a05/transformed/accompanist-pager-0.13.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-pager:0.13.0] /Users/sotsys320/.gradle/caches/transforms-3/72744290bd938d35adff403f7a6d1a05/transformed/accompanist-pager-0.13.0/AndroidManifest.xml:20:5-22:41
+MERGED from [io.coil-kt:coil-compose:2.0.0-rc01] /Users/sotsys320/.gradle/caches/transforms-3/8e78251e2b1f5e6f9123a74ca3c38e3b/transformed/coil-compose-2.0.0-rc01/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-compose:2.0.0-rc01] /Users/sotsys320/.gradle/caches/transforms-3/8e78251e2b1f5e6f9123a74ca3c38e3b/transformed/coil-compose-2.0.0-rc01/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-compose-base:2.0.0-rc01] /Users/sotsys320/.gradle/caches/transforms-3/90ff5eb2d75a6fcc8a9e361de52ab93b/transformed/coil-compose-base-2.0.0-rc01/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-compose-base:2.0.0-rc01] /Users/sotsys320/.gradle/caches/transforms-3/90ff5eb2d75a6fcc8a9e361de52ab93b/transformed/coil-compose-base-2.0.0-rc01/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.23.1] /Users/sotsys320/.gradle/caches/transforms-3/cf1ed15a109f677a3291667e1d559d19/transformed/accompanist-drawablepainter-0.23.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.23.1] /Users/sotsys320/.gradle/caches/transforms-3/cf1ed15a109f677a3291667e1d559d19/transformed/accompanist-drawablepainter-0.23.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.paging:paging-runtime-ktx:3.1.1] /Users/sotsys320/.gradle/caches/transforms-3/2a4a0c61a9400a5c434885f27cd67793/transformed/paging-runtime-ktx-3.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.paging:paging-runtime-ktx:3.1.1] /Users/sotsys320/.gradle/caches/transforms-3/2a4a0c61a9400a5c434885f27cd67793/transformed/paging-runtime-ktx-3.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.paging:paging-runtime:3.1.1] /Users/sotsys320/.gradle/caches/transforms-3/779ba777a1ec079bab8f485bcb9a3a8b/transformed/paging-runtime-3.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.paging:paging-runtime:3.1.1] /Users/sotsys320/.gradle/caches/transforms-3/779ba777a1ec079bab8f485bcb9a3a8b/transformed/paging-runtime-3.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:hilt-android:2.38.1] /Users/sotsys320/.gradle/caches/transforms-3/3924754fdde44364b8b66f267c706940/transformed/hilt-android-2.38.1/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.38.1] /Users/sotsys320/.gradle/caches/transforms-3/3924754fdde44364b8b66f267c706940/transformed/hilt-android-2.38.1/AndroidManifest.xml:18:3-42
+MERGED from [androidx.navigation:navigation-compose:2.5.2] /Users/sotsys320/.gradle/caches/transforms-3/ca90d07f62492a0df80116bd928e01a5/transformed/navigation-compose-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.5.2] /Users/sotsys320/.gradle/caches/transforms-3/ca90d07f62492a0df80116bd928e01a5/transformed/navigation-compose-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.5.1] /Users/sotsys320/.gradle/caches/transforms-3/66ee760c2b3c35f4507311bacdf9c071/transformed/lifecycle-viewmodel-compose-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.5.1] /Users/sotsys320/.gradle/caches/transforms-3/66ee760c2b3c35f4507311bacdf9c071/transformed/lifecycle-viewmodel-compose-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.13.2] /Users/sotsys320/.gradle/caches/transforms-3/847f08a5fc3ac2cbcde3b894bb57d13a/transformed/glide-4.13.2/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.13.2] /Users/sotsys320/.gradle/caches/transforms-3/847f08a5fc3ac2cbcde3b894bb57d13a/transformed/glide-4.13.2/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.3.2] /Users/sotsys320/.gradle/caches/transforms-3/5c290e32bd5d62c7b7624d2a4c635629/transformed/fragment-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.2] /Users/sotsys320/.gradle/caches/transforms-3/5c290e32bd5d62c7b7624d2a4c635629/transformed/fragment-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-test-manifest:1.1.0-beta01] /Users/sotsys320/.gradle/caches/transforms-3/1379672ed7d33b59ebfe3f0285c1894e/transformed/ui-test-manifest-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-test-manifest:1.1.0-beta01] /Users/sotsys320/.gradle/caches/transforms-3/1379672ed7d33b59ebfe3f0285c1894e/transformed/ui-test-manifest-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling:1.1.0-beta01] /Users/sotsys320/.gradle/caches/transforms-3/bd2a19910e317f7cb2897da68ac2798a/transformed/ui-tooling-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling:1.1.0-beta01] /Users/sotsys320/.gradle/caches/transforms-3/bd2a19910e317f7cb2897da68ac2798a/transformed/ui-tooling-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.5.1] /Users/sotsys320/.gradle/caches/transforms-3/9540f03faba22dcaee0e2714ccc7ab2e/transformed/activity-compose-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.5.1] /Users/sotsys320/.gradle/caches/transforms-3/9540f03faba22dcaee0e2714ccc7ab2e/transformed/activity-compose-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.2] /Users/sotsys320/.gradle/caches/transforms-3/bc571a8932d87a5236a400b6b776b25a/transformed/navigation-runtime-ktx-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.2] /Users/sotsys320/.gradle/caches/transforms-3/bc571a8932d87a5236a400b6b776b25a/transformed/navigation-runtime-ktx-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.2] /Users/sotsys320/.gradle/caches/transforms-3/2c44f72ffe9d7181258f72e504f72562/transformed/navigation-runtime-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.2] /Users/sotsys320/.gradle/caches/transforms-3/2c44f72ffe9d7181258f72e504f72562/transformed/navigation-runtime-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/sotsys320/.gradle/caches/transforms-3/4216b0c4f976c0335e81a5648d3aaa41/transformed/activity-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/sotsys320/.gradle/caches/transforms-3/4216b0c4f976c0335e81a5648d3aaa41/transformed/activity-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /Users/sotsys320/.gradle/caches/transforms-3/4e84c50205db16489793cd3d6c6c8988/transformed/activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /Users/sotsys320/.gradle/caches/transforms-3/4e84c50205db16489793cd3d6c6c8988/transformed/activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.2] /Users/sotsys320/.gradle/caches/transforms-3/83cf9c5c40852eaa13a9f03bc8aac64c/transformed/navigation-common-ktx-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.2] /Users/sotsys320/.gradle/caches/transforms-3/83cf9c5c40852eaa13a9f03bc8aac64c/transformed/navigation-common-ktx-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.2] /Users/sotsys320/.gradle/caches/transforms-3/4ee5a3ae126e3e78c4464db04f90010f/transformed/navigation-common-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.2] /Users/sotsys320/.gradle/caches/transforms-3/4ee5a3ae126e3e78c4464db04f90010f/transformed/navigation-common-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.1.0-beta01] /Users/sotsys320/.gradle/caches/transforms-3/25fe40166ce1c20f46f366e0cf991167/transformed/material-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.1.0-beta01] /Users/sotsys320/.gradle/caches/transforms-3/25fe40166ce1c20f46f366e0cf991167/transformed/material-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/sotsys320/.gradle/caches/transforms-3/87a2f4ea161bded2f8827205c295e7ff/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/sotsys320/.gradle/caches/transforms-3/87a2f4ea161bded2f8827205c295e7ff/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/sotsys320/.gradle/caches/transforms-3/8c6d40a4de3d363e8423548c13a5616a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sotsys320/.gradle/caches/transforms-3/8c6d40a4de3d363e8423548c13a5616a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data:1.1.0-beta01] /Users/sotsys320/.gradle/caches/transforms-3/bc8c818db698c4ce5886871701afc723/transformed/ui-tooling-data-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.1.0-beta01] /Users/sotsys320/.gradle/caches/transforms-3/bc8c818db698c4ce5886871701afc723/transformed/ui-tooling-data-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.1.0-beta01] /Users/sotsys320/.gradle/caches/transforms-3/ed4cb6a54528ad45b70c7ff2b24a37f8/transformed/material-icons-core-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.1.0-beta01] /Users/sotsys320/.gradle/caches/transforms-3/ed4cb6a54528ad45b70c7ff2b24a37f8/transformed/material-icons-core-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.paging:paging-compose:1.0.0-alpha13] /Users/sotsys320/.gradle/caches/transforms-3/1413141c03b5a19605dcde932ecd52c1/transformed/paging-compose-1.0.0-alpha13/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.paging:paging-compose:1.0.0-alpha13] /Users/sotsys320/.gradle/caches/transforms-3/1413141c03b5a19605dcde932ecd52c1/transformed/paging-compose-1.0.0-alpha13/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.1.0-beta01] /Users/sotsys320/.gradle/caches/transforms-3/cdd8a6423433fed1154ae43c570564a4/transformed/material-ripple-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.1.0-beta01] /Users/sotsys320/.gradle/caches/transforms-3/cdd8a6423433fed1154ae43c570564a4/transformed/material-ripple-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/49b7ac985bbcf5a6188401f1939bc56a/transformed/foundation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/49b7ac985bbcf5a6188401f1939bc56a/transformed/foundation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/c6f4f11e5618b310ba931b27e4aee58e/transformed/animation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/c6f4f11e5618b310ba931b27e4aee58e/transformed/animation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/ee860dd18eba755afddeafae7c4ae8e0/transformed/foundation-layout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/ee860dd18eba755afddeafae7c4ae8e0/transformed/foundation-layout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/f77189175a35853df45f927dbf974c19/transformed/animation-core-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/f77189175a35853df45f927dbf974c19/transformed/animation-core-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/ea79cdcad6383d9f89168264bfff8780/transformed/ui-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/ea79cdcad6383d9f89168264bfff8780/transformed/ui-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/sotsys320/.gradle/caches/transforms-3/f7d6ba3844dcaf32b2b99f7011407078/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/sotsys320/.gradle/caches/transforms-3/f7d6ba3844dcaf32b2b99f7011407078/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/sotsys320/.gradle/caches/transforms-3/02318df07e618b030d678a3a33a1e8bf/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/sotsys320/.gradle/caches/transforms-3/02318df07e618b030d678a3a33a1e8bf/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [io.coil-kt:coil:2.0.0-rc01] /Users/sotsys320/.gradle/caches/transforms-3/20fd5c0f4896d17dda07c6976a29c877/transformed/coil-2.0.0-rc01/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil:2.0.0-rc01] /Users/sotsys320/.gradle/caches/transforms-3/20fd5c0f4896d17dda07c6976a29c877/transformed/coil-2.0.0-rc01/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:2.0.0-rc01] /Users/sotsys320/.gradle/caches/transforms-3/ddcf2d024fdec9cbab0683fe9d2a3b07/transformed/coil-base-2.0.0-rc01/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:2.0.0-rc01] /Users/sotsys320/.gradle/caches/transforms-3/ddcf2d024fdec9cbab0683fe9d2a3b07/transformed/coil-base-2.0.0-rc01/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/sotsys320/.gradle/caches/transforms-3/45adea5395f29247179098fc4dac13d5/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/sotsys320/.gradle/caches/transforms-3/45adea5395f29247179098fc4dac13d5/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.1.0-beta01] /Users/sotsys320/.gradle/caches/transforms-3/91e84e9695b36a79bdb728e5efadacb0/transformed/ui-tooling-preview-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.1.0-beta01] /Users/sotsys320/.gradle/caches/transforms-3/91e84e9695b36a79bdb728e5efadacb0/transformed/ui-tooling-preview-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/948a5087d761946645a326b15d59a13a/transformed/ui-text-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/948a5087d761946645a326b15d59a13a/transformed/ui-text-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/04fe5ab01dd4440c5fbad3fc0542b01b/transformed/ui-graphics-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/04fe5ab01dd4440c5fbad3fc0542b01b/transformed/ui-graphics-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/8aabe65965c5f7a3f3600b04e3397d25/transformed/ui-unit-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/8aabe65965c5f7a3f3600b04e3397d25/transformed/ui-unit-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/d68c1a407ef26bde58bedb05d5c6d98f/transformed/runtime-saveable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/d68c1a407ef26bde58bedb05d5c6d98f/transformed/runtime-saveable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/eb6259ae7f9b38321764e6052a892d69/transformed/ui-geometry-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/eb6259ae7f9b38321764e6052a892d69/transformed/ui-geometry-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/6f8a4b6e419775e6cc995f58ca1194a0/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/6f8a4b6e419775e6cc995f58ca1194a0/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /Users/sotsys320/.gradle/caches/transforms-3/9d5a9c25bf9bc0cff83b010331b8ff4f/transformed/lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /Users/sotsys320/.gradle/caches/transforms-3/9d5a9c25bf9bc0cff83b010331b8ff4f/transformed/lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/sotsys320/.gradle/caches/transforms-3/8fa789c8c781ff24ac85f1b0ca114676/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/sotsys320/.gradle/caches/transforms-3/8fa789c8c781ff24ac85f1b0ca114676/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.github.aakira:napier-android-debug:1.4.1] /Users/sotsys320/.gradle/caches/transforms-3/e959d034b1cc2db890da9336875eab26/transformed/napier-debug/AndroidManifest.xml:7:5-9:41
+MERGED from [io.github.aakira:napier-android-debug:1.4.1] /Users/sotsys320/.gradle/caches/transforms-3/e959d034b1cc2db890da9336875eab26/transformed/napier-debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/sotsys320/.gradle/caches/transforms-3/056bfff1d31eaaa5312a46778a71b7e5/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/sotsys320/.gradle/caches/transforms-3/056bfff1d31eaaa5312a46778a71b7e5/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/sotsys320/.gradle/caches/transforms-3/ee6480be78697e9b4ba8b8a16eaa6e79/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/sotsys320/.gradle/caches/transforms-3/ee6480be78697e9b4ba8b8a16eaa6e79/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/sotsys320/.gradle/caches/transforms-3/4e64204bde100f9c1c95bdfa661222ea/transformed/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/sotsys320/.gradle/caches/transforms-3/4e64204bde100f9c1c95bdfa661222ea/transformed/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/7c8b728359a63c5648df5cd645d56966/transformed/ui-util-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/7c8b728359a63c5648df5cd645d56966/transformed/ui-util-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/sotsys320/.gradle/caches/transforms-3/d07965265ab1b2cab75387e118c12095/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/sotsys320/.gradle/caches/transforms-3/d07965265ab1b2cab75387e118c12095/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/sotsys320/.gradle/caches/transforms-3/c45d061238b91860ec7746eab4eb0b7e/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/sotsys320/.gradle/caches/transforms-3/c45d061238b91860ec7746eab4eb0b7e/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sotsys320/.gradle/caches/transforms-3/eb6c4362da9fdcfcdcbb1d9472d4a07a/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sotsys320/.gradle/caches/transforms-3/eb6c4362da9fdcfcdcbb1d9472d4a07a/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /Users/sotsys320/.gradle/caches/transforms-3/b0655407146bd1042a5a397351558ad7/transformed/recyclerview-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /Users/sotsys320/.gradle/caches/transforms-3/b0655407146bd1042a5a397351558ad7/transformed/recyclerview-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/sotsys320/.gradle/caches/transforms-3/b51ea0e372d350b05eaf49dc850e5eed/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sotsys320/.gradle/caches/transforms-3/b51ea0e372d350b05eaf49dc850e5eed/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/sotsys320/.gradle/caches/transforms-3/aec1f1b62b1ad8bae08b3194dcc46800/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/sotsys320/.gradle/caches/transforms-3/aec1f1b62b1ad8bae08b3194dcc46800/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/sotsys320/.gradle/caches/transforms-3/bef6e1a3c64756b34d2bfad7ce5333fc/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/sotsys320/.gradle/caches/transforms-3/bef6e1a3c64756b34d2bfad7ce5333fc/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sotsys320/.gradle/caches/transforms-3/1ca739f49a3aa87969f769e87ce22852/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sotsys320/.gradle/caches/transforms-3/1ca739f49a3aa87969f769e87ce22852/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sotsys320/.gradle/caches/transforms-3/cdb5034c74dd18494b4873b31e706ef8/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sotsys320/.gradle/caches/transforms-3/cdb5034c74dd18494b4873b31e706ef8/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/sotsys320/.gradle/caches/transforms-3/f67e54056b01de037952603e644f6808/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/sotsys320/.gradle/caches/transforms-3/f67e54056b01de037952603e644f6808/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/sotsys320/.gradle/caches/transforms-3/a0b6a970174efa3466d11aacf435cbeb/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/sotsys320/.gradle/caches/transforms-3/a0b6a970174efa3466d11aacf435cbeb/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] /Users/sotsys320/.gradle/caches/transforms-3/991932d87d2cb70ab3858c2c3603baf8/transformed/gifdecoder-4.13.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] /Users/sotsys320/.gradle/caches/transforms-3/991932d87d2cb70ab3858c2c3603baf8/transformed/gifdecoder-4.13.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/sotsys320/.gradle/caches/transforms-3/6696842d366b3da9875acdec3483665c/transformed/profileinstaller-1.1.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/sotsys320/.gradle/caches/transforms-3/6696842d366b3da9875acdec3483665c/transformed/profileinstaller-1.1.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/sotsys320/.gradle/caches/transforms-3/00f2951cf4f24de2de367aa419cf1946/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/sotsys320/.gradle/caches/transforms-3/00f2951cf4f24de2de367aa419cf1946/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/sotsys320/.gradle/caches/transforms-3/4fc2c46872a07ffd25153831a0261e35/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/sotsys320/.gradle/caches/transforms-3/4fc2c46872a07ffd25153831a0261e35/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sotsys320/.gradle/caches/transforms-3/493109758de0d98189a64f337284b5fe/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sotsys320/.gradle/caches/transforms-3/493109758de0d98189a64f337284b5fe/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/9a63257b9e465d445e073b6bd18c13cd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sotsys320/.gradle/caches/transforms-3/9a63257b9e465d445e073b6bd18c13cd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/sotsys320/.gradle/caches/transforms-3/68a960c12cc35131a3d07bb40abd30c6/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/sotsys320/.gradle/caches/transforms-3/68a960c12cc35131a3d07bb40abd30c6/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sotsys320/.gradle/caches/transforms-3/173994a8cd365a3aa9901451ec11d37c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sotsys320/.gradle/caches/transforms-3/173994a8cd365a3aa9901451ec11d37c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.38.1] /Users/sotsys320/.gradle/caches/transforms-3/675f7633a82db5b2521bba28a99a3639/transformed/dagger-lint-aar-2.38.1/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.38.1] /Users/sotsys320/.gradle/caches/transforms-3/675f7633a82db5b2521bba28a99a3639/transformed/dagger-lint-aar-2.38.1/AndroidManifest.xml:18:3-42
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/sotsys320/.gradle/caches/transforms-3/98ea027750e5624fcde2517b65044706/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/sotsys320/.gradle/caches/transforms-3/98ea027750e5624fcde2517b65044706/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sotsys320/MyApplication/app/src/main/AndroidManifest.xml
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.1.0-beta01] /Users/sotsys320/.gradle/caches/transforms-3/1379672ed7d33b59ebfe3f0285c1894e/transformed/ui-test-manifest-1.1.0-beta01/AndroidManifest.xml:25:9-27:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.1.0-beta01] /Users/sotsys320/.gradle/caches/transforms-3/1379672ed7d33b59ebfe3f0285c1894e/transformed/ui-test-manifest-1.1.0-beta01/AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.1.0-beta01] /Users/sotsys320/.gradle/caches/transforms-3/1379672ed7d33b59ebfe3f0285c1894e/transformed/ui-test-manifest-1.1.0-beta01/AndroidManifest.xml:26:13-63
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.1.0-beta01] /Users/sotsys320/.gradle/caches/transforms-3/bd2a19910e317f7cb2897da68ac2798a/transformed/ui-tooling-1.1.0-beta01/AndroidManifest.xml:25:9-27:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.1.0-beta01] /Users/sotsys320/.gradle/caches/transforms-3/bd2a19910e317f7cb2897da68ac2798a/transformed/ui-tooling-1.1.0-beta01/AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.1.0-beta01] /Users/sotsys320/.gradle/caches/transforms-3/bd2a19910e317f7cb2897da68ac2798a/transformed/ui-tooling-1.1.0-beta01/AndroidManifest.xml:26:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/sotsys320/.gradle/caches/transforms-3/6696842d366b3da9875acdec3483665c/transformed/profileinstaller-1.1.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/sotsys320/.gradle/caches/transforms-3/00f2951cf4f24de2de367aa419cf1946/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/sotsys320/.gradle/caches/transforms-3/00f2951cf4f24de2de367aa419cf1946/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/sotsys320/.gradle/caches/transforms-3/6696842d366b3da9875acdec3483665c/transformed/profileinstaller-1.1.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/sotsys320/.gradle/caches/transforms-3/6696842d366b3da9875acdec3483665c/transformed/profileinstaller-1.1.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/sotsys320/.gradle/caches/transforms-3/6696842d366b3da9875acdec3483665c/transformed/profileinstaller-1.1.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/sotsys320/.gradle/caches/transforms-3/6696842d366b3da9875acdec3483665c/transformed/profileinstaller-1.1.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/sotsys320/.gradle/caches/transforms-3/6696842d366b3da9875acdec3483665c/transformed/profileinstaller-1.1.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/sotsys320/.gradle/caches/transforms-3/6696842d366b3da9875acdec3483665c/transformed/profileinstaller-1.1.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/sotsys320/.gradle/caches/transforms-3/6696842d366b3da9875acdec3483665c/transformed/profileinstaller-1.1.0/AndroidManifest.xml:32:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/sotsys320/.gradle/caches/transforms-3/6696842d366b3da9875acdec3483665c/transformed/profileinstaller-1.1.0/AndroidManifest.xml:36:9-45:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/sotsys320/.gradle/caches/transforms-3/6696842d366b3da9875acdec3483665c/transformed/profileinstaller-1.1.0/AndroidManifest.xml:39:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/sotsys320/.gradle/caches/transforms-3/6696842d366b3da9875acdec3483665c/transformed/profileinstaller-1.1.0/AndroidManifest.xml:40:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/sotsys320/.gradle/caches/transforms-3/6696842d366b3da9875acdec3483665c/transformed/profileinstaller-1.1.0/AndroidManifest.xml:41:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/sotsys320/.gradle/caches/transforms-3/6696842d366b3da9875acdec3483665c/transformed/profileinstaller-1.1.0/AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/sotsys320/.gradle/caches/transforms-3/6696842d366b3da9875acdec3483665c/transformed/profileinstaller-1.1.0/AndroidManifest.xml:37:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/sotsys320/.gradle/caches/transforms-3/6696842d366b3da9875acdec3483665c/transformed/profileinstaller-1.1.0/AndroidManifest.xml:42:13-44:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/sotsys320/.gradle/caches/transforms-3/6696842d366b3da9875acdec3483665c/transformed/profileinstaller-1.1.0/AndroidManifest.xml:43:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/sotsys320/.gradle/caches/transforms-3/6696842d366b3da9875acdec3483665c/transformed/profileinstaller-1.1.0/AndroidManifest.xml:43:25-88
