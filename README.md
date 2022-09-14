@@ -4,7 +4,7 @@ This is sample demo based on modern Android tech-stacks especially focus on Jetp
 
 To run this demo you needs to add ```YOUR_API_KEY```, which you can get it from movieDB platform.
 
-##Above demo is build with:
+## Above demo is build with:
 - Jetpack compose
 - MVVM structure
 - Hilt
@@ -12,13 +12,13 @@ To run this demo you needs to add ```YOUR_API_KEY```, which you can get it from 
 - Coil for image loading
 
 
-##Jetpack Compose UI
+## Jetpack Compose UI
 - Bottom Navigation
 - LazyVerticalGrid
 - TabLayout
 
 
-#License
+## License
 ```MIT License
 
 Copyright (c) 2022 Amit Patoliya
