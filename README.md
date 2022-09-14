@@ -4,7 +4,13 @@ This is sample demo based on modern Android tech-stacks especially focus on Jetp
 
 To run this demo you needs to add ```YOUR_API_KEY```, which you can get it from movieDB platform.
 
-## Above demo is build with:
+## Features
+- Movie list with swipable catagories
+- Tv show list with swipable categories
+- Profiles of Star
+
+
+## Above demo is build with libraries:
 - Jetpack compose
 - MVVM structure
 - Hilt
@@ -16,6 +22,9 @@ To run this demo you needs to add ```YOUR_API_KEY```, which you can get it from 
 - Bottom Navigation
 - LazyVerticalGrid
 - TabLayout
+
+
+## See demo video
 
 
 ## License
