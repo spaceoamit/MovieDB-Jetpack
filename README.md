@@ -2,7 +2,7 @@
 
 This is sample demo based on modern Android tech-stacks especially focus on Jetpack Compose UI using The Movie DB API.
 
-To run this demo you needs to add `YOUR_API_KEY`, which you can get it from movieDB platform.
+To run this demo you needs to add ```YOUR_API_KEY```, which you can get it from movieDB platform.
 
 ##Above demo is build with:
 - Jetpack compose
@@ -19,7 +19,7 @@ To run this demo you needs to add `YOUR_API_KEY`, which you can get it from movi
 
 
 #License
-``MIT License
+```MIT License
 
 Copyright (c) 2022 Amit Patoliya
 
@@ -40,6 +40,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-``
+```
 
 
