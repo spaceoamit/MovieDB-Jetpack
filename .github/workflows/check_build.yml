@@ -13,3 +13,7 @@ jobs:
 
       - name: Generate Debug APK
         run: ./gradlew assembleDebug
+
+      - name: Send on email
+        
+
